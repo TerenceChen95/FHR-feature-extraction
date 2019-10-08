@@ -1,2 +1,3 @@
 # FHR-feature-extraction
-features are described in report.
+Fetal heart rate feature extraction,
+including baseline, peaks, valleys, variation
